@@ -1,0 +1,53 @@
+/* General Styling */
+body {
+  font-family: sans-serif;
+  margin: 20px;
+}
+
+.css-1iktp3s {
+  color: #9a1212; /* Change the color code to your desired color */
+  background-color: #008080; /* Change the background color code to your desired color */
+}
+
+
+
+
+
+
+.header{
+  color: blue;
+}
+
+/* App Title */
+.stAppMsg h1 {
+  font-size: 2.5em;
+  text-align: center;
+}
+
+/* Subheaders */
+.stSubtitle {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+/* Text Input Field */
+.stTextInput {
+  font-size: 16px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+/* Data Table */
+.css-fixed {
+  font-size: 14px;
+}
+
+/* Plots */
+.mpl-legend {
+  /* Move legend outside plot area */
+  position: absolute;
+  left: 100%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
