@@ -50,13 +50,13 @@ Ensure you have Python and the required libraries installed. You can install the
 
 Bash
 pip install numpy pandas matplotlib yfinance keras streamlit
-Use code with caution.
+
 
  Clone this repository:
 
 Bash
 git clone https://github.com/gunjanmhjn/Stock-Market-Price-Predictor.git
-Use code with caution.
+
 
  Running the Model
 
@@ -67,7 +67,7 @@ After training the model, launch the web application:
 
 Bash
 streamlit run app.py
-Use code with caution.
+
 
  This will open the app in your web browser (usually at http://localhost:8501/).
 
