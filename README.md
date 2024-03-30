@@ -55,7 +55,7 @@ pip install numpy pandas matplotlib yfinance keras streamlit
  Clone this repository:
 
 Bash
-git clone https://github.com/gunjanmhjn/Stock-Market-Price-Predictor.git
+git clone https://github.com/gunjanmhjn/Stock-Market.git
 
 
  Running the Model
